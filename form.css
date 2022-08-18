@@ -1,0 +1,33 @@
+div
+   {
+       text-align: center;
+   }
+
+h2
+{
+    text-align: center;
+}
+.form-inline
+{
+    text-align: center;
+}
+label
+{
+    text-align: center;
+}
+strong
+{
+    color:red;
+}
+body
+{
+    background-color: rgba(173, 156, 156, 0.281);
+    width: 300px;
+    border: 2px solid rgb(0, 4, 255);
+    padding: 50px;
+    margin-left: 550px;
+}
+.row
+{
+    padding: 10px;
+}
